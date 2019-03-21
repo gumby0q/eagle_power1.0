@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,8.7.1*%
+%TF.CreationDate,2019-02-08T14:13:13Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Artem Kurbanov <shadow.of.war94@gmail.com>*%
+%TJ.B_ID,sceme1.0*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,46.025000*%
+%TJ.B_Size_Y,54.282500*%
+M02*
